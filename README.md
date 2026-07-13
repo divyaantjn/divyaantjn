@@ -234,43 +234,6 @@ Own the full lifecycle of enterprise GenAI products — from requirements and ar
 
 </div>
 
----
-
-## 📜 Certifications
-
-**AWS**
-
-![AWS Certified](https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Certified](https://img.shields.io/badge/Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-> *Add certification credential links/IDs here as they're issued.*
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-gfg-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2E0854?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
