@@ -7,7 +7,7 @@
 <br/>
 
 ![B.Tech CGPA](https://img.shields.io/badge/B.Tech-CGPA%209.32%2F10-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Indore%2C%20India-4B0082?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Gurgaon%2C%20India-4B0082?style=flat-square&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://divyaant-jain.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaant-kumar-jain)
